@@ -8,3 +8,6 @@
 
 ### STOP_RECORDING
 `adb shell am broadcast -a com.ss.arap.STOP_RECORDING`
+
+### Flow
+![alt text](design.png)
